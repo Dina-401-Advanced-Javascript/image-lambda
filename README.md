@@ -17,13 +17,13 @@ Original files:
 ![Blue planet](assets/blue.jpg)
 Link: https://img-uploads-bucket.s3-us-west-2.amazonaws.com/blue.jpg
 ![My Profile Pic](assets/profile+pic.jpg)
-Link: https://img-uploads-bucket.s3-us-west-2.amazonaws.com/profile+pic.jpg
+Link: https://img-uploads-bucket.s3-us-west-2.amazonaws.com/profile-pic.jpg
 
 Resized files:
 ![Blue planet](resized-blue.jpg)
 (https://img-uploads-bucket-resized.s3-us-west-2.amazonaws.com/resized-blue.jpg
 ![My Profile Pic](resized-profile+pic.jpg)
-Link: https://img-uploads-bucket-resized.s3-us-west-2.amazonaws.com/resized-profile+pic.jpg
+Link: https://img-uploads-bucket-resized.s3-us-west-2.amazonaws.com/resized-profile-pic.jpg
 
 Shown in AWS:
 ![1](assets/1.png)
