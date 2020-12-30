@@ -22,7 +22,7 @@ Link: https://img-uploads-bucket.s3-us-west-2.amazonaws.com/profile+pic.jpg
 Resized files:
 ![Blue planet](assets/resized-blue.jpg)
 (https://img-uploads-bucket-resized.s3-us-west-2.amazonaws.com/resized-blue.jpg
-![My Profile Pic](assets/resized-profile+pic.jpg)
+![My Profile Pic](assets/resized-profile-pic.jpg)
 Link: https://img-uploads-bucket-resized.s3-us-west-2.amazonaws.com/resized-profile+pic.jpg
 
 Shown in AWS:
